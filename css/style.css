@@ -1292,7 +1292,7 @@ h3#comments {
     margin-bottom: 40px;
     text-align: center;
     padding: 5px;
-    border-top: solid 1px #eee;
+    border-top: none;
     border-bottom: solid 1px #eee;
 }
 
@@ -1559,7 +1559,7 @@ h3#comments {
 }
 
 .services ul li{
-  border-bottom: dotted 1px #e6e6e6;
+  /* border-bottom: dotted 1px #e6e6e6; */
   padding: 3px 0 4px 0;
 }
 
@@ -3015,7 +3015,7 @@ input.hs-button.primary.large{
     /*margin-bottom: 40px;*/
     text-align: center;
     padding: 30px;
-    border-top: solid 1px #eee;
+    border-top:  none;
     border-bottom: solid 1px #eee;
 }
 
